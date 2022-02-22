@@ -15,8 +15,6 @@ public class Graphique extends JFrame {
 
     public void Fen(){
 
-        System.out.println("niiiiiiiiggggggaaaaaaaaaaa");
-
         System.out.println(radio);
         System.out.println(radio.getUtili().get(radio.showMe).getTitre());
         System.out.println(radio.getUtili().get(radio.showMe).getDuree());
